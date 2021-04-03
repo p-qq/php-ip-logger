@@ -6,6 +6,8 @@ nothing too special just a php ip logger with og support
     2. you can easily phish the link in discord you can see in #what it looks like
     3. can detect vpns [very buggy with phones] due to ipv6
     4. you can easily add cookie logging if you're creative
+    5. Has auto redirect you can change it to discord.com but i have it as skadaddle.cc check it at the end of the code
+    it just makes the link less sus. somewhat??
     
 
 # What It Looks Like
