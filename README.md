@@ -28,6 +28,7 @@ https://www.000webhost.com/members/website/list and click on manage website on u
 8. put the code in it
 9. get your website link for ex: https://freediscordsnitro.000webhostapp.com/
 then add your file name so if its a.php it will be 'https://freediscordsnitro.000webhostapp.com/a.php'
+10. on line 11 in the php file put your link which should have the .php at the end of it
 ```
 # images to help you after you make the website
 ![](step1.png)
